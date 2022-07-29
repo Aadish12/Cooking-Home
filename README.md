@@ -1,70 +1,21 @@
-# Getting Started with Create React App
+A food and recipe website where users can view all recipes, including cooking time and ingredients. The user has the ability to create new recipes or update existing ones. The user can delete any recipe or look up the recipe for any dish by its name.
 
-This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
+OUTPUT:
 
-## Available Scripts
+VIEW RECIPES:
+<img width="960" alt="view recipes" src="https://user-images.githubusercontent.com/89978956/181837329-f6732582-f589-43d8-8a2f-0290eacc22a7.png">
 
-In the project directory, you can run:
+CREATE RECIPES:
+<img width="960" alt="create recipes" src="https://user-images.githubusercontent.com/89978956/181837393-066cdca9-1773-4d55-af7b-8a0f06c3f250.png">
 
-### `npm start`
+EDIT RECIPES:
+<img width="960" alt="edit recipes" src="https://user-images.githubusercontent.com/89978956/181837439-ed98ca85-2a90-4bcd-92d5-98b4163d98b9.png">
 
-Runs the app in the development mode.\
-Open [http://localhost:3000](http://localhost:3000) to view it in the browser.
+SEARCH RECIPES:
+<img width="960" alt="search recipes" src="https://user-images.githubusercontent.com/89978956/181837518-d4648bcf-c4be-4696-bd0e-64a1e4a8c625.png">
 
-The page will reload if you make edits.\
-You will also see any lint errors in the console.
+DELETE RECIPES (Deleted Malai Matar Recipe) :
+<img width="960" alt="delete recipes" src="https://user-images.githubusercontent.com/89978956/181837548-756d9a1f-51e2-45cf-a43c-979f5fea6b33.png">
 
-### `npm test`
-
-Launches the test runner in the interactive watch mode.\
-See the section about [running tests](https://facebook.github.io/create-react-app/docs/running-tests) for more information.
-
-### `npm run build`
-
-Builds the app for production to the `build` folder.\
-It correctly bundles React in production mode and optimizes the build for the best performance.
-
-The build is minified and the filenames include the hashes.\
-Your app is ready to be deployed!
-
-See the section about [deployment](https://facebook.github.io/create-react-app/docs/deployment) for more information.
-
-### `npm run eject`
-
-**Note: this is a one-way operation. Once you `eject`, you can’t go back!**
-
-If you aren’t satisfied with the build tool and configuration choices, you can `eject` at any time. This command will remove the single build dependency from your project.
-
-Instead, it will copy all the configuration files and the transitive dependencies (webpack, Babel, ESLint, etc) right into your project so you have full control over them. All of the commands except `eject` will still work, but they will point to the copied scripts so you can tweak them. At this point you’re on your own.
-
-You don’t have to ever use `eject`. The curated feature set is suitable for small and middle deployments, and you shouldn’t feel obligated to use this feature. However we understand that this tool wouldn’t be useful if you couldn’t customize it when you are ready for it.
-
-## Learn More
-
-You can learn more in the [Create React App documentation](https://facebook.github.io/create-react-app/docs/getting-started).
-
-To learn React, check out the [React documentation](https://reactjs.org/).
-
-### Code Splitting
-
-This section has moved here: [https://facebook.github.io/create-react-app/docs/code-splitting](https://facebook.github.io/create-react-app/docs/code-splitting)
-
-### Analyzing the Bundle Size
-
-This section has moved here: [https://facebook.github.io/create-react-app/docs/analyzing-the-bundle-size](https://facebook.github.io/create-react-app/docs/analyzing-the-bundle-size)
-
-### Making a Progressive Web App
-
-This section has moved here: [https://facebook.github.io/create-react-app/docs/making-a-progressive-web-app](https://facebook.github.io/create-react-app/docs/making-a-progressive-web-app)
-
-### Advanced Configuration
-
-This section has moved here: [https://facebook.github.io/create-react-app/docs/advanced-configuration](https://facebook.github.io/create-react-app/docs/advanced-configuration)
-
-### Deployment
-
-This section has moved here: [https://facebook.github.io/create-react-app/docs/deployment](https://facebook.github.io/create-react-app/docs/deployment)
-
-### `npm run build` fails to minify
-
-This section has moved here: [https://facebook.github.io/create-react-app/docs/troubleshooting#npm-run-build-fails-to-minify](https://facebook.github.io/create-react-app/docs/troubleshooting#npm-run-build-fails-to-minify)
+Detailed View of Recipes:
+<img width="960" alt="detailed recipes" src="https://user-images.githubusercontent.com/89978956/181837628-08851667-79c6-4f44-ab30-2db22beb712d.png">
